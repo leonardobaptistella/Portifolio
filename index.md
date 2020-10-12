@@ -11,21 +11,21 @@ Esse foi o projeto da placa responsável pelo gerenciamento do sistema de potên
 
 ## Ribatski Module Board - EPS
 
-Esse foi o projeto da placa a qual era responsável pelo acoplamento das células de baterias e pelo controle térmico ativo do nano-satélite USPSat-Ae1
+Esse foi o projeto da placa a qual era responsável pelo acoplamento das células de baterias e pelo controle térmico ativo do nano-satélite USPSat-Ae1.
 ![Ribatski Module Board](/images/ribatski_soldada.png)
 
 ## Main Board Lite
 
 Essa placa foi desenvolvida a fim de ser uma das componentes base do Projeto Genus, sendo essa uma versão de vôo, utilizada futuramente nas sondas estratosféricas do grupo Zenith.
-![Main Board Lite](/images/main lite.png)
+![Main Board Lite](/images/main_lite.png)
 
 ## Main Board STD
 Essa placa foi desenvolvida a fim de ser uma das componentes base do Projeto Genus, sendo essa uma versão de integração de subsistemas para nano-satélites e sondas estratosféricas do grupo Zenith.
-![Main Board STD](/images/main std.png)
+![Main Board STD](/images/main_std.png)
 
 ## Main Board DEV
 Essa placa foi desenvolvida a fim de ser uma das componentes base do Projeto Genus, sendo essa uma versão para ser utilizada em bancada durante a execução de testes.
-![Main Board DEV](/images/main dev.png)
+![Main Board DEV](/images/main_dev.png)
 
 ## Power Control System 
 Essa placa foi desenvolvida a fim de ser o sistema de controle e de execução testes de um sistema de potência o qual realizava determinação do estado de carga de baterias de um nobreak.
