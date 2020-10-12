@@ -3,6 +3,7 @@ Estes são alguns dos projetos de placas de circuito desenvolvidos por mim ao lo
 
 ## London Power - EPS
 Esse foi o projeto da placa de potência do nano-satélite USPSat-Ae1, a qual era responsável pelo carregamento de baterias a partir de painéis solares, e pela conversão dos níveis de energia para os demais subsistemas.
+
 ![London Power EPS](/images/London_soldada.png)
 
 ## Varella Logical - EPS
@@ -17,15 +18,15 @@ Esse foi o projeto da placa a qual era responsável pelo acoplamento das célula
 ## Main Board Lite
 
 Essa placa foi desenvolvida a fim de ser uma das componentes base do Projeto Genus, sendo essa uma versão de vôo, utilizada futuramente nas sondas estratosféricas do grupo Zenith.
-![Main Board Lite](/images/main_lite.png)
+![Main Board Lite](/images/main_lite.jpeg)
 
 ## Main Board STD
 Essa placa foi desenvolvida a fim de ser uma das componentes base do Projeto Genus, sendo essa uma versão de integração de subsistemas para nano-satélites e sondas estratosféricas do grupo Zenith.
-![Main Board STD](/images/main_std.png)
+![Main Board STD](/images/main_std.PNG)
 
 ## Main Board DEV
 Essa placa foi desenvolvida a fim de ser uma das componentes base do Projeto Genus, sendo essa uma versão para ser utilizada em bancada durante a execução de testes.
-![Main Board DEV](/images/main_dev.png)
+![Main Board DEV](/images/main_dev.PNG)
 
 ## Power Control System 
 Essa placa foi desenvolvida a fim de ser o sistema de controle e de execução testes de um sistema de potência o qual realizava determinação do estado de carga de baterias de um nobreak.
