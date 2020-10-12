@@ -48,6 +48,11 @@ Esse foi apenas um breakout para um thermistor utilizado para medição de tempe
 
 ![Sensor de Temperatura](/images/render-temper.PNG)
 
+##  Módulo de instrumentação
+Essa placa foi o protótipo de um módulo de instrumentação concebido para ser utilizado em sondas estratosférica juntamente com sistemas de telemetria.
+
+![Módulo de Instrumentação](/images/varelastd.png)
+
 ##  Módulo de Computação Embarcado
 Essa placa foi apenas o suporte para a integração de dois módulos de computação e embarcado e imagemaneto ao restante do projeto do nano-satélite USPSat - Ae1
 
