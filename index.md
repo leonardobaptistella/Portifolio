@@ -29,15 +29,15 @@ Essa placa foi desenvolvida a fim de ser uma das componentes base do Projeto Gen
 
 ## Power Control System 
 Essa placa foi desenvolvida a fim de ser o sistema de controle e de execução testes de um sistema de potência o qual realizava determinação do estado de carga de baterias de um nobreak.
-![Power Control System](/images/controlsystem.png)
+![Power Control System](/images/controlsystem.PNG)
 
 ## Power System 
 Essa placa foi responsável pelo  sistema de potência o qual em conjunto com Power Control System realizava determinação do estado de carga de baterias de um nobreak.
-![Power System](/images/power-render.png)
+![Power System](/images/power-render.PNG)
 
 ## Sensor de Temperatura
 Esse foi apenas um breakout para um thermistor utilizado para medição de temperaturas em packs de baterias
-![Sensor de Temperatura](/images/render-temper.png)
+![Sensor de Temperatura](/images/render-temper.PNG)
 
 ##  Módulo de Computação Embarcado
 Essa placa foi apenas o suporte para a integração de dois módulos de computação e embarcado e imagemaneto ao restante do projeto do nano-satélite USPSat - Ae1
