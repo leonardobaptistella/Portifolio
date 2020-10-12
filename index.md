@@ -32,5 +32,9 @@ Essa placa foi desenvolvida a fim de ser o sistema de controle e de execução t
 ![Power Control System](/images/london.png)
 
 ## Power System 
-Essa placa foi desenvolvida a fim de ser o sistema de controle e de execução testes de um sistema de potência o qual realizava determinação do estado de carga de baterias de um nobreak.
-![Power Control System](/images/london.png)
+Essa placa foi responsável pelo  sistema de potência o qual em conjunto com Power Control System realizava determinação do estado de carga de baterias de um nobreak.
+![Power System](/images/london.png)
+
+## Sensor de Temperatura
+Esse foi apenas um breakout para um thermistor utilizado para medição de temperaturas em packs de baterias
+![Sensor de Temperatura](/images/london.png)
