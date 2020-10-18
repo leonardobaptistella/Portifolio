@@ -33,6 +33,11 @@ Essa placa foi desenvolvida a fim de ser uma das componentes base do Projeto Gen
 
 ![Main Board DEV](/images/main_dev.PNG)
 
+## Hackathon SEA 2020
+Essa placa foi desenvolvida como uma proposta de solução em monitoramento utilizando drones no Hackathon SEA 2020. Essa placa contempla sistema de carregamento indutivo e modulos de comunicação externa.
+
+![Base Charger](/images/placa base 1.PNG)
+
 ## Power Control System 
 Essa placa foi desenvolvida a fim de ser o sistema de controle e de execução testes de um sistema de potência o qual realizava determinação do estado de carga de baterias de um nobreak.
 
