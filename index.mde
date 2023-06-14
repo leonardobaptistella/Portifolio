@@ -1,5 +1,5 @@
 # Projetos
-Estes são alguns dos projetos de placas de circuito desenvolvidos por mim ao longo dos últimos anos. Grande parte dos projetos apresentados fazem parte do Zenith Aerospace, e são open-source, sendo encontrados no [meu repositório](https://github.com/leonardobaptistella), ou no repositório do [grupo](https://github.com/zenitheesc). e encontram-se em meu repositório
+Estes são alguns dos projetos de placas de circuito que desenvolvi ao longo dos últimos anos. Grande parte dos projetos apresentados foram desenvolvidos no Zenith Aerospace, e são open-source, sendo encontrados no [meu repositório](https://github.com/leonardobaptistella), ou no repositório do [grupo](https://github.com/zenitheesc).
 
 ## London Power - EPS
 Esse foi o projeto da placa de potência do nano-satélite USPSat-Ae1, a qual era responsável pelo carregamento de baterias a partir de painéis solares, e pela conversão dos níveis de energia para os demais subsistemas.
