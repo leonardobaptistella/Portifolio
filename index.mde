@@ -13,19 +13,18 @@ This was the board project responsible for managing the power system of the nano
 
 ## Ribatski Module Board - EPS
 
-
 This was the project of the board that was responsible for the coupling of the battery cells and the active thermal control of the USPSat-Ae1 nanosatellite.
 
 ![Ribatski Module Board](/images/ribatski_soldada.png)
 
 ## Main Board Lite
 
-Essa placa foi desenvolvida a fim de ser uma das componentes base do Projeto Genus, sendo essa uma versão de vôo, utilizada futuramente nas sondas estratosféricas do grupo Zenith.
+This board was developed to be one of the foundational components of the Genus Project, serving as a flight version and intended for future use in the stratospheric probes of the Zenith group.
 
 ![Main Board Lite](/images/main_lite.jpeg)
 
 ## Main Board STD
-Essa placa foi desenvolvida a fim de ser uma das componentes base do Projeto Genus, sendo essa uma versão de integração de subsistemas para nano-satélites e sondas estratosféricas do grupo Zenith.
+This board was developed to be one of the core components of the Genus Project, serving as an integrated subsystem version for nano-satellites and stratospheric probes of the Zenith group.
 
 ![Main Board STD](/images/main_std.PNG)
 
