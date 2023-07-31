@@ -54,9 +54,11 @@ This board was developed during my scientific initiation project with the object
 
 ![Power System](/images/power-render.PNG)
 
-##  Intrumentation Module
+##  Instrumentation Module
 This board was the prototype of an instrumentation module designed to be used in stratospheric probes in conjunction with a telemetry system. It includes sensing capabilities for various flight parameters, a CAN bus for communication with the telemetry system, and switched-mode circuits for power conversion and system power supply.
 
 ![Módulo de Instrumentação](/images/varelastd.png)
 
-
+##  Hardware Assemble
+This board was
+![Módulo de Instrumentação](/images/varelastd.png)
