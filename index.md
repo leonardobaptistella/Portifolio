@@ -22,12 +22,13 @@ This module was responsible for the coupling of the batteries to the power syste
 
 ## Main Board Lite
 
-This board was developed to be one of the foundational components of the Genus Project, serving as a flight version and intended for future use in the stratospheric probes of the Zenith group.
+This board was the first prototype of the Genus project, which aims to create a generic hardware platform for aerospace applications. This version, called the main board lite, is designed to integrate two other systems through a standardized bus, capable of implementing redundant communication protocols such as CAN, I2C, and SPI. Additionally, it features switched-mode circuits for power conversion and system power supply.
+
 
 ![Main Board Lite](/images/main_lite.jpeg)
 
 ## Main Board STD
-This board was developed to be one of the core components of the Genus Project, serving as an integrated subsystem version for nano-satellites and stratospheric probes of the Zenith group.
+This board is a prototype of the Genus project, specifically the main board standard version, which aims to integrate various other systems through a standardized bus. This bus is capable of implementing redundant communication protocols such as CAN, I2C, and SPI, as well as different generic buses that can be customized according to the mission's needs. Additionally, it features switched-mode circuits for power conversion and system power supply.
 
 ![Main Board STD](/images/main_std.PNG)
 
