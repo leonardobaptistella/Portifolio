@@ -44,32 +44,19 @@ This board was developed as a proposal for the Hackathon SEA 2020, offering a so
 ![Base Charger](/images/placa_base.PNG)
 
 ## Power Control System 
-Essa placa foi desenvolvida a fim de ser o sistema de controle e de execução testes de um sistema de potência o qual realizava determinação do estado de carga de baterias de um nobreak.
+This board was developed during my scientific initiation project to serve as a control system for conducting tests on UPS batteries to determine their SOC (State of Charge) and SOH (State of Health). It features a control system based on STM32, as well as a secondary microcontroller for managing serial communication and Bluetooth with external devices. The board includes switched-mode circuits for power conversion and charging a backup battery, providing power for the monitoring system during electrical grid outages.
 
 ![Power Control System](/images/controlsystem.PNG)
 
 ## Power System 
-Essa placa foi responsável pelo  sistema de potência o qual em conjunto com Power Control System realizava determinação do estado de carga de baterias de um nobreak.
+
+This board was developed during my scientific initiation project with the objective of implementing power circuits and measurement capabilities for conducting battery discharge tests. It works in conjunction with the previously mentioned power control system board.
 
 ![Power System](/images/power-render.PNG)
 
 ##  Módulo de instrumentação
-Essa placa foi o protótipo de um módulo de instrumentação concebido para ser utilizado em sondas estratosférica juntamente com sistemas de telemetria.
+This board was the prototype of an instrumentation module designed to be used in stratospheric probes in conjunction with a telemetry system. It includes sensing capabilities for various flight parameters, a CAN bus for communication with the telemetry system, and switched-mode circuits for power conversion and system power supply.
 
 ![Módulo de Instrumentação](/images/varelastd.png)
 
 
-## Voltage Meter
-Essa placa foi o projeto de um medidor de tensão para packs de três células de baterias de ions de lítio, utilizadas nas sondas extratósféricas do grupo Zenith.
-
-![Voltage Meter](/images/voltagemeter.png)
-
-## ProtoLora
-Essaplaca foi apenas o desenvolvimento de um brakout de um módulo LoRa, a fim do mesmo ser utilizado na montagem de circuitos em protoboards para a realização de testes.
-
-![ProtoLora](/images/protolora.png)
-
-## CanTester
-Essa placa foi a implementação de um barramento CAN para a realização de testes de comunicação e integração de subsistemas.
-
-![CanTester](/images/can_tester.png)
