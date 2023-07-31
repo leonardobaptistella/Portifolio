@@ -1,4 +1,4 @@
-# Projects Portifolio
+# Project Portifolio
 
 Welcome to my portfolio of printed circuit boards! 
 
