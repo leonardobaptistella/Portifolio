@@ -58,10 +58,6 @@ Essa placa foi o protótipo de um módulo de instrumentação concebido para ser
 
 ![Módulo de Instrumentação](/images/varelastd.png)
 
-##  Módulo de Computação Embarcado
-Essa placa foi apenas o suporte para a integração de dois módulos de computação e embarcado e imagemaneto ao restante do projeto do nano-satélite USPSat - Ae1
-
-![Módulo de Computação Embarcado](/images/comin.png)
 
 ## Voltage Meter
 Essa placa foi o projeto de um medidor de tensão para packs de três células de baterias de ions de lítio, utilizadas nas sondas extratósféricas do grupo Zenith.
