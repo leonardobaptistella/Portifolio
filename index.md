@@ -1,4 +1,6 @@
-# Projectsoudly present a selection of the PCBs I have meticulously designed over the past few years. The majority of these boards are integral components of projects that I worked on during my tenure as a member of the esteemed research and outreach group, Zenith EESC-USP. Each PCB showcased here represents a culmination of dedication, innovation, and technical expertise, reflecting my commitment to pushing the boundaries of electronic design. I invite you to explore this collection and witness the exciting journey of my contributions to the world of PCB development within the realm of Zenith EESC-USP.
+# Project
+
+soudly present a selection of the PCBs I have meticulously designed over the past few years. The majority of these boards are integral components of projects that I worked on during my tenure as a member of the esteemed research and outreach group, Zenith EESC-USP. Each PCB showcased here represents a culmination of dedication, innovation, and technical expertise, reflecting my commitment to pushing the boundaries of electronic design. I invite you to explore this collection and witness the exciting journey of my contributions to the world of PCB development within the realm of Zenith EESC-USP.
 Welcome to my portfolio of printed circuit boards Here, I pr
 
 ## London Power - EPS
