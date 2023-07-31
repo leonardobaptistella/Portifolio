@@ -18,9 +18,8 @@ This board played a critical role in the mission as it integrated the entire pow
 
 This module was responsible for the coupling of the batteries to the power system of the CubeSat USPSat-I. Additionally, on this board, the circuits for the active thermal control of the project were implemented, which were being controlled through the bus by the Varela Logical EPS board.
 
-<div style="transform: rotate(90deg);">
- ![Ribatski Module Board](/images/ribatski_soldada.png)
-</div>
+![Ribatski Module Board](/images/ribatski_soldada.png)
+
 
 ## Main Board Lite
 
