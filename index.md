@@ -63,4 +63,4 @@ This board was the prototype of an instrumentation module designed to be used in
 
 During the execution of these projects, I had the opportunity to actively participate in the Hardware Assembly process, gaining valuable hands-on experience with manual soldering of Surface Mount Devices (SMD) components. Additionally, I was involved in conducting thorough inspection, testing, and validation procedures to ensure the quality and functionality of the assembled hardware.
 
-![Hardware Assemble](/images/stack.png)
+![Hardware Assemble](/images/stack.jpg)
