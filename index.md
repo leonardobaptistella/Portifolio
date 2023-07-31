@@ -29,10 +29,10 @@ This board was the first prototype of the Genus project, which aims to create a 
 
 ![Main Board Lite](/images/main_lite.jpeg)
 
-## Main Board STD
+## Main Board Standard
 This board is a prototype of the Genus project, specifically the main board standard version, which aims to integrate various other systems through a standardized bus. This bus is capable of implementing redundant communication protocols such as CAN, I2C, and SPI, as well as different generic buses that can be customized according to the mission's needs. Additionally, it features switched-mode circuits for power conversion and system power supply.
 
-![Main Board STD](/images/main_std.PNG)
+![Main Board Standard](/images/main_std.PNG)
 
 ## Main Board DEV
 
