@@ -33,7 +33,8 @@ This board is a prototype of the Genus project, specifically the main board stan
 ![Main Board STD](/images/main_std.PNG)
 
 ## Main Board DEV
-Essa placa foi desenvolvida a fim de ser uma das componentes base do Projeto Genus, sendo essa uma versão para ser utilizada em bancada durante a execução de testes.
+
+This board was developed to be one of the foundational components of the Genus Project, specifically designed for benchtop use during software development and testing. As such, it features connectors that allow access to the bus and includes peripherals to aid in debugging processes.
 
 ![Main Board DEV](/images/main_dev.PNG)
 
