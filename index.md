@@ -39,7 +39,7 @@ This board was developed to be one of the foundational components of the Genus P
 ![Main Board DEV](/images/main_dev.PNG)
 
 ## Hackathon SEA 2020
-Essa placa foi desenvolvida como uma proposta de solução em monitoramento utilizando drones no Hackathon SEA 2020. Essa placa contempla sistema de carregamento indutivo e modulos de comunicação externa.
+This board was developed as a proposal for the Hackathon SEA 2020, offering a solution for monitoring transmission lines using drones. It incorporates a control system for the inductive charging of the drones and external GSM communication modules.
 
 ![Base Charger](/images/placa_base.PNG)
 
@@ -52,11 +52,6 @@ Essa placa foi desenvolvida a fim de ser o sistema de controle e de execução t
 Essa placa foi responsável pelo  sistema de potência o qual em conjunto com Power Control System realizava determinação do estado de carga de baterias de um nobreak.
 
 ![Power System](/images/power-render.PNG)
-
-## Sensor de Temperatura
-Esse foi apenas um breakout para um thermistor utilizado para medição de temperaturas em packs de baterias
-
-![Sensor de Temperatura](/images/render-temper.PNG)
 
 ##  Módulo de instrumentação
 Essa placa foi o protótipo de um módulo de instrumentação concebido para ser utilizado em sondas estratosférica juntamente com sistemas de telemetria.
