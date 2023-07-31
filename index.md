@@ -10,7 +10,7 @@ This was the power board project of the nano-satellite USPSat-I. It is responsib
 ![London Power EPS](/images/London_soldada.png)
 
 ## Varella Logical - EPS
-This board was responsible for overseeing the cubesat power system. With its critical role in managing power, this board played a central part in ensuring smooth operations and optimal performance throughout the mission. 
+This board played a critical role in the mission as it integrated the entire power system of the CubeSat. It handled all the instrumentation and control of the EPS (Electrical Power System) using an STM32 microcontroller. Being dependent on this board, all the other satellite systems relied on its flawless performance.
 
 ![Varella Logica - EPS](/images/logical_soldada.png)
 
